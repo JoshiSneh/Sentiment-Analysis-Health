@@ -1,6 +1,6 @@
 # Mental Health Sentiment Analysis
 
-This project performs sentiment analysis on mental health-related statements using machine learning techniques.
+Performed sentiment analysis on mental health-related statements using machine learning techniques.
 
 ## Dataset
 
